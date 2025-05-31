@@ -14,7 +14,7 @@ body {
 }
 
 header {
-  background-color: #004080;
+  background-color: #b71d2f;
   color: white;
   padding: 40px 20px;
   text-align: center;
@@ -83,7 +83,7 @@ form input {
 
 form button {
   background-color: #004080;
-  color: white;
+  color: green;
   border: none;
   cursor: pointer;
 }
@@ -94,7 +94,7 @@ form button:hover {
 
 footer {
   background-color: #004080;
-  color: black;
+  color: white;
   text-align: center;
   padding: 15px;
   position: fixed;

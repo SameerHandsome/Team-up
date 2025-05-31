@@ -38,24 +38,24 @@ The project was built to practice version control using GitHub, with collaborati
 ## 📸 Screenshots
 
 ### 🌐 Website Preview (`index.html`)
-![Website Preview](images/1.png)
+![Website Preview](images/1.PNG)
 
 ---
 
 ### 🔁 GitHub Pull Requests
-![Pull Requests](images/2.png)
+![Pull Requests](images/2.PNG)
 
 ---
 
 ### 🐛 GitHub Issues
-![Issues](images/3.png)
+![Issues](images/3.PNG)
 
 ---
 
 ### 🔍 Git Log – Team Contributions
-![Git Log 1](images/4.png)
-![Git Log 2](images/5.png)
-![Git Log 3](images/6.png)
+![Git Log 1](images/4.PNG)
+![Git Log 2](images/5.PNG)
+![Git Log 3](images/6.PNG)
 
 
 ## 🚀 How to Use
